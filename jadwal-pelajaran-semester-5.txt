@@ -1,0 +1,16 @@
+*20 Agustus 2021*
+- Semester baru, tautan baru ... XD
+- Penggantian tautan telegraph menjadi github.
+- Penambahan tautan semua GC, termasuk penjurusan (kalau ada).
+
+*25 Maret 2021*
+- Penambahan fitur baru, yaitu tautan semua GC bisa digunakan untuk membuka halaman GC sekaligus bergabung dengan GC yang dituju (apabila belum bergabung).
+- Penambahan tautan GC Sintaksis.
+
+*24 Maret 2021*
+- Penambahan jadwal mata kuliah dari Wowo.
+- Penggantian tautan sehingga tanpa iklan.
+- Perubahan sedikit tampilan.
+
+*10 Maret 2021*
+- Penambahan tautan Presensi Menulis 2 serta Edmodo dan Kelompok Kajian Drama.
