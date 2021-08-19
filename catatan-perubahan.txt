@@ -1,3 +1,5 @@
+Catatan Perubahan
+
 *20 Agustus 2021*
 - Semester baru, tautan baru ... XD
 - Penggantian tautan telegraph menjadi github.
